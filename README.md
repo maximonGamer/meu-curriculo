@@ -77,7 +77,7 @@ Com uma formação acadêmica em **Análise de Desenvolvimento de Sistemas** e e
 ## 📂 Projetos
 
 ### **Apollo Grill Vision**  
-[GitHub - Apollo Grill Vision](https://github.com/claudiolucas/apollo-grill-vision)  
+[GitHub - Apollo Grill Vision](https://www.canva.com/design/DAGR-Jh5L_c/GNNhrywfCb7-73htNDmTbw/edit?utm_content=DAGR-Jh5L_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 **Descrição:** Aplicativo Android com a proposta de ajudar clientes a localizar unidades de restaurantes, visualizar cardápios e acessar informações sobre o funcionamento do sistema de cada empresa.  
 **Tecnologias:** Android, Firebase, Java  
 **Destaques:** Implementação de geolocalização, integração com banco de dados em tempo real e design responsivo.
@@ -89,7 +89,7 @@ Com uma formação acadêmica em **Análise de Desenvolvimento de Sistemas** e e
 **Destaques:** Implementação de sistema de login e cadastro de usuários, e integração com banco de dados para gerenciamento de vagas.
 
 ### **Portfólio Online**  
-[GitHub - Portfólio Online](https://github.com/claudiolucas/portfolio)  
+[GitHub - Portfólio Online](https://meu-portfolio-seven-phi.vercel.app/#about)  
 **Descrição:** Meu portfólio online, desenvolvido com Next.js e Tailwind CSS, onde apresento meus projetos, habilidades e informações de contato.  
 **Tecnologias:** Next.js, Tailwind CSS, GitHub Pages  
 **Destaques:** Design responsivo, animações e interatividade no layout.
