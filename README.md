@@ -83,7 +83,7 @@ Com uma formação acadêmica em **Análise de Desenvolvimento de Sistemas** e e
 **Destaques:** Implementação de geolocalização, integração com banco de dados em tempo real e design responsivo.
 
 ### **Plataforma de Vagas**  
-[GitHub - Plataforma de Vagas](https://github.com/claudiolucas/plataforma-de-vagas)  
+[GitHub - Plataforma de Vagas](https://github.com/maximonGamer/Plataforma-de-vagas-/tree/main/atividade%20de%20poo)  
 **Descrição:** Plataforma web para busca de vagas de emprego, com funcionalidades como comentários para estudantes e possibilidade de empresas adicionarem links de vagas.  
 **Tecnologias:** PHP, MySQL, JavaScript, Bootstrap  
 **Destaques:** Implementação de sistema de login e cadastro de usuários, e integração com banco de dados para gerenciamento de vagas.
