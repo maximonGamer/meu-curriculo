@@ -64,7 +64,7 @@ Com uma formação acadêmica em **Análise de Desenvolvimento de Sistemas** e e
 - Colaboração com equipes de frontend e outros departamentos técnicos para garantir a integração contínua e entrega de soluções eficazes.
 - Utilização de Docker para containerização e automação de processos de deploy.
 
-### **Empresa ABC**  
+### **Empresa Workana / Freelancer **  
 **Cargo:** Estagiário de Desenvolvimento  freelancer
 **Período:** Julho 2023 - Dezembro 2024  
 **Responsabilidades:**
