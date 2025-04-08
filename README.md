@@ -99,7 +99,7 @@ Com uma formação acadêmica em **Análise de Desenvolvimento de Sistemas** e e
 ## 📬 Contatos
 
 - **LinkedIn:** [linkedin.com/in/claudiolucas](www.linkedin.com/in/claudio-lucas-henrique-francisco-ribeiro-1a8148346)
-- **Instagram:** [@claudiolucas]([https://www.instagram.com/claudiolucas](https://www.instagram.com/claudio_ribeirofh/))
+- **Instagram:** @claudio_ribeirofh
 - **WhatsApp:** [Clique aqui para conversar](https://wa.me/11998115005)
 - **Email:** lucasclaudio830@gmail.com
 
