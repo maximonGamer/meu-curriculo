@@ -3,7 +3,7 @@
 ![Claudio Lucas](./public/minha_foto.svg) <!-- Substitua com o caminho da sua foto -->
 
 ---
-
+( em  portugues brasil ) 
 ## 👨‍💻 Sobre Mim
 
 Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e impactantes. Ao longo dos anos, desenvolvi habilidades em várias tecnologias de desenvolvimento web, mobile e backend. Sempre busco me atualizar com as últimas tendências e práticas de desenvolvimento para entregar soluções de alta qualidade e com foco na experiência do usuário.
@@ -114,4 +114,111 @@ Com uma formação acadêmica em **Análise de Desenvolvimento de Sistemas** e e
 - **Contribuições Open Source:** Contribuo para projetos de código aberto, sempre buscando aprender e compartilhar com a comunidade.
 
 ---
+
+
+( em English EUA) 
+
+👨‍💻 About Me
+I’m a passionate software developer committed to building innovative and high-impact solutions. I’ve developed solid skills in web, mobile, and backend technologies, always focusing on performance, user experience, and scalable architecture.
+
+Currently working as a Backend Developer at Global Technologies Services, I specialize in creating advanced technological solutions, building APIs and microservices, and collaborating with cross-functional teams on large-scale projects.
+
+I'm also pursuing a degree in Systems Analysis and Development and have completed technical training in Programming. I’m always looking for challenges that allow me to grow as a professional and contribute meaningfully to the tech world.
+
+🛠️ Technical Skills
+Frontend
+HTML5, CSS3, JavaScript – Interactive and accessible responsive web design
+
+TypeScript – Strong typing for safer JavaScript development
+
+React, Next.js – Modern interfaces with server-side rendering
+
+Tailwind CSS – Fast and elegant UI development
+
+Backend
+Node.js, Express – RESTful APIs and scalable services
+
+PHP – Web system development and backend logic
+
+Flask (Python) – Lightweight and fast API creation
+
+Databases
+MySQL, PostgreSQL – Relational data modeling and optimization
+
+MongoDB, Firebase Firestore – Scalable NoSQL solutions
+
+Other Technologies
+Docker – Containerization for simplified deployment
+
+Git & GitHub – Version control and team collaboration
+
+Firebase – Real-time databases and authentication
+
+Android Studio, FlutterFlow – Mobile app development
+
+Three.js & react-three-fiber – 3D web experiences
+
+🎓 Education
+Universidade Braz Cubas
+BSc in Systems Analysis and Development (2023 – Ongoing)
+Focus on software architecture, advanced programming, and scalable solutions.
+
+Fundação Bradesco
+Technical Course in Programming (2021 – 2023)
+Emphasis on web development and clean coding practices.
+
+💼 Professional Experience
+Global Technologies Services
+System Development Analyst / IT Support / QA – Jan 2025 – Present
+
+Backend development for enterprise systems
+
+Creation of REST APIs using Node.js and Express
+
+System performance optimization and database integration
+
+Collaboration with frontend teams and DevOps using Docker
+
+Workana / Freelancer
+Freelance Development Intern – Jul 2023 – Dec 2024
+
+Frontend development with HTML, CSS, and JavaScript
+
+Assisted in backend features using PHP and Node.js
+
+Supported integration testing and bug tracking
+
+🚀 Projects
+Apollo Grill Vision
+Android App
+Helps users find restaurant locations, view menus, and get company details.
+Techs: Java, Firebase
+Highlights: Real-time database, geolocation, responsive UI
+
+Job Platform
+Web Application
+A platform for students and companies to share and find job opportunities.
+Techs: PHP, MySQL, JavaScript
+Highlights: Login system, user roles, comment feature
+
+Online Portfolio
+Personal Portfolio Website
+Showcasing my projects, skills, and contact details.
+Techs: Next.js, Tailwind CSS
+Highlights: Smooth animations, responsive layout, GitHub Pages hosting
+
+📬 Contact
+LinkedIn: linkedin.com/in/claudiolucas
+
+Instagram: @claudio_ribeirofh
+
+WhatsApp: Click here to chat
+
+Email: lucasclaudio830@gmail.com
+
+🌱 Extra Activities
+Programming Mentor – Supporting junior devs and beginners in communities
+
+Open Source Contributor – Participating in collaborative coding projects
+
 
