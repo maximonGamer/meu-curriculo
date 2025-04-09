@@ -116,7 +116,7 @@ Com uma formação acadêmica em **Análise de Desenvolvimento de Sistemas** e e
 ---
 
 
-( em English EUA) 
+( in English USA) 
 
 👨‍💻 About Me
 I’m a passionate software developer committed to building innovative and high-impact solutions. I’ve developed solid skills in web, mobile, and backend technologies, always focusing on performance, user experience, and scalable architecture.
